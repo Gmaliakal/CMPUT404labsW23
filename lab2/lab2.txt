@@ -1,0 +1,6 @@
+1. s= socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+2. Client socket sends requests to the server, server socket accepts requests from the Client
+3. socket.SO_REUSEADDR
+4. it says the ip and proxy numbers, and it echos b'Foobar\n'
+5. recv() returns the page contents depending on how much bytes the user specified 
+6. https://github.com/Gmaliakal/CMPUT404labsW23/tree/master
